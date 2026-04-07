@@ -16,3 +16,4 @@ Python 기초 문법을 학습하기 위한 터미널 기반 퀴즈 게임입니
 ```bash
 git clone https://github.com/ygyg0605-cloud/quiz-game.git
 cd quiz-game
+## 추가 정부
