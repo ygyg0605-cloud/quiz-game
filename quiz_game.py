@@ -110,7 +110,7 @@ class QuizGame:
                     exit()
             
             if quiz.is_correct(answer):
-                print("✅ 정답입니다!")
+                print("✅ 정답입니니니니니다!")
                 score += 1
             else:
                 print(f"❌ 오답입니다. 정답은 {quiz.answer}번입니다.")
